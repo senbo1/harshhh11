@@ -1,13 +1,13 @@
-## Hi there 👋
+### Hi there 👋
 
 My name is Harsh and I'm a computer science student from India.
 
-## 🧦 Languages I use 
+** 🧦 Languages I use 
 * C++ 
 * JavaScript
 * Python 
 
-## 🌱 Interests
+** 🌱 Interests
 * Web Development 
 * Machine Learning 
 
