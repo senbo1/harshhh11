@@ -7,7 +7,7 @@ My name is Harsh and I'm a computer science student from India.
 * JavaScript
 * Python 
 
-** 🌱 Interests **
+**🌱 Interests**
 * Web Development 
 * Machine Learning 
 
