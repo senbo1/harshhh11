@@ -3,7 +3,7 @@
 My name is Harsh and I'm a computer science student from India.
 
 **⚡ Languages I use** 
-* C++ 
+* C/C++ 
 * JavaScript 
 
 **🌱 Interests**
