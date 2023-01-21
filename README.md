@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 
 
 My name is Harsh and I'm a computer science student from India.
 
